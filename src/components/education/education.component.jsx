@@ -7,7 +7,7 @@ const Education = () => {
     return (
         <div id="resume" className='education'>
             <div className="container">
-                <SectionTop subTitle="ประวัติการศึกษา" Title="การศึกษา & ประสบการณ์การทำงาน" />
+                <SectionTop subTitle="ประวัติการศึกษาและเรียนรู้" Title="ประสบการณ์การออกแบบและพัฒนา" />
 
                 <div className="row content-inside">
                     {
