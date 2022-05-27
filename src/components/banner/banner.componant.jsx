@@ -11,18 +11,18 @@ const Banner = () =>{
                     </div>
                     <div className="featured-post-right">
                         <div className="content-text">
-                            <div className="tag text-white">WEB DESIGN</div>
+                            <div className="tag text-white">My Portfolio</div>
                             <h1 className='feature-head-line title'>
                                 <span>สวัสดี</span>
-                                <Typewriter options={{strings:['ฮาโหลล' , 'คำถัดไป'] ,
+                                <Typewriter options={{strings:['ฉันชื่อ ณัฐธิชา' , 'ยินดีที่ได้รู้จัก'] ,
                                 autoStart:true ,
                                 loop : true}} />
                             </h1>
                             <p className='py-5 text-white banner-text'>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, dolorum repellat ipsa cumque quibusdam sit eveniet incidunt obcaecati suscipit odio id repellendus delectus hic, asperiores fugiat? Numquam voluptatum eaque quo?
+                                ยินดีที่ได้รู้จัก! ฉันชื่อ ณัฐธิชา ศรีเกิด มาจากมหาวิทยาลัยพระจอมเกล้าพระนครเหนือ วิทยาเขตปราจีนบุรี คณะเทคโนโลยีและการจักการอุตสาหกรรม สาขาเทคโนโลยีสารสนเทศ ฉันสามารถปรับตัวและพร้อมพัฒนาไปพร้อมกับคุณ!
                             </p>
                             <div className="site-list">
-                                <a href="">
+                                <a href="https://github.com/Nutticha">
                                     <i className="fab fa-github"></i>
                                 </a>
                             </div>

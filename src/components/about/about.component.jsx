@@ -19,7 +19,7 @@ const About = () => {
                                 ติดต่อดูผลงานได้ที่
                             </h4>
 
-                            <a href="mailto:yourmail@email.com" className='email'>yourmail@email</a>
+                            <a href="mailto:yourmail@email.com" className='email'>nutticha30234@gmail.com</a>
                         </div>
                     </div>
                 </div>
